@@ -1,0 +1,43 @@
+
+
+body {
+    background-color: #393E46;
+  }
+
+
+.container1 {
+    text-align: center;
+    margin-left: 6%;
+    margin-top: 0px;
+    color: #4ECCA3;
+    font-family: 'Lobster', cursive;
+    text-shadow: 5px 0 #232931;
+  font-size: 2rem;
+
+}
+
+.container2 {
+    text-align: center;
+    display: inline-block;
+    margin-left: 25%;
+    color: #4ECCA3;
+    font-family: 'Indie Flower', cursive;
+    font-size: 2rem;
+    
+}
+
+.container3 {
+    text-align: center;
+    display: inline-block;
+    margin-left: 15%;
+    color: #4ECCA3;
+    font-family: 'Indie Flower', cursive;
+    font-size: 2rem;
+}
+footer {
+    margin-top: 5%;
+    color: #EEEEEE;
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+  
+  }
